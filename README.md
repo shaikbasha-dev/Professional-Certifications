@@ -85,6 +85,18 @@ This repository contains my professional certifications earned through online le
 * Git
 * GitHub
 
+Learning Goal
+
+To continuously improve my technical skills and build expertise in Java Full Stack Development through practical learning, certifications, and project development.
+
+Repository Contents
+Introduction_to_Java_Coursera.pdf
+Programming_for_Everybody_Python_Coursera.pdf
+JavaScript_Basics_Coursera.pdf
+SQL_and_Relational_Databases_IBM.pdf
+Front_End_Development_HTML_GreatLearning.pdf
+Front_End_Development_CSS_GreatLearning.pdf
+
 ## Author
 
 Shaik Mahaboob Basha
