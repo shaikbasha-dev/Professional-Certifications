@@ -108,6 +108,20 @@ This repository contains my professional certifications earned through online le
   * Responsive Design
   * Layout Techniques
 
+## Digital Badges
+
+### Getting Started with Java: The Fundamentals of Java Programming
+
+<p align="left">
+  <img src="Badges/Getting_Started_with_Java_Skillsoft_Badge.png" alt="Getting Started with Java: The Fundamentals of Java Programming Skillsoft Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Badge Provider: Skillsoft
+* Year: 2026
+* Achievement: Course Completion
+* Focus Area: Java Programming Fundamentals
+
 ## Technical Skills
 
 * Java
@@ -136,6 +150,7 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 * `SQL_and_Relational_Databases_IBM.pdf`
 * `Front_End_Development_HTML_GreatLearning.pdf`
 * `Front_End_Development_CSS_GreatLearning.pdf`
+* `Badges/Getting_Started_with_Java_Skillsoft_Badge.png`
 
 ## Author
 
