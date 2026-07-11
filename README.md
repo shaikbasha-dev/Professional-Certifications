@@ -1,8 +1,42 @@
 # Professional Certifications
 
-This repository contains my professional certifications earned through online learning platforms and technical training programs.
+This repository contains my professional certifications earned through online learning platforms and technical training programs. These certifications demonstrate continuous learning and skill development across programming, web development, databases, and software engineering fundamentals.
 
 ## Certifications
+
+### Programming using Java - Special Batches
+
+* Platform: Infosys Springboard
+* Course Provider: Skillsoft
+* Year: 2026
+* Skills Learned:
+
+  * Java Programming Fundamentals
+  * Variables, Identifiers, Keywords, and Data Types
+  * Operators and Type Conversion
+  * Selection and Iteration Control Structures
+  * Object-Oriented Programming
+  * Methods and Constructors
+  * Encapsulation and Abstraction
+  * Access Modifiers
+  * Arrays and Strings
+  * Memory Management
+  * Debugging and Code Analysis
+  * Static Members
+  * Association and Aggregation
+  * Inheritance
+  * Method Overloading and Method Overriding
+  * Object and Wrapper Classes
+  * Abstract Classes
+  * Interfaces and Packages
+  * Exception Handling
+  * Unit Testing and Code Coverage
+  * Regular Expressions
+  * Collections Framework and Generics
+  * ArrayList and LinkedList
+  * Set Interface
+  * HashMap
+  * Queue Interface
 
 ### Programming for Everybody (Getting Started with Python)
 
@@ -82,23 +116,29 @@ This repository contains my professional certifications earned through online le
 * HTML5
 * CSS3
 * JavaScript
+* Object-Oriented Programming
+* Java Collections Framework
+* Exception Handling
+* Unit Testing
 * Git
 * GitHub
 
-Learning Goal
+## Learning Goal
 
-To continuously improve my technical skills and build expertise in Java Full Stack Development through practical learning, certifications, and project development.
+To continuously strengthen my technical knowledge and build expertise in Java Full Stack Development through structured learning, professional certifications, practical programming, and project development.
 
-Repository Contents
-Introduction_to_Java_Coursera.pdf
-Programming_for_Everybody_Python_Coursera.pdf
-JavaScript_Basics_Coursera.pdf
-SQL_and_Relational_Databases_IBM.pdf
-Front_End_Development_HTML_GreatLearning.pdf
-Front_End_Development_CSS_GreatLearning.pdf
+## Repository Contents
+
+* `Programming_using_Java_Infosys_Springboard.pdf`
+* `Introduction_to_Java_Coursera.pdf`
+* `Programming_for_Everybody_Python_Coursera.pdf`
+* `JavaScript_Basics_Coursera.pdf`
+* `SQL_and_Relational_Databases_IBM.pdf`
+* `Front_End_Development_HTML_GreatLearning.pdf`
+* `Front_End_Development_CSS_GreatLearning.pdf`
 
 ## Author
 
-Shaik Mahaboob Basha
+**Shaik Mahaboob Basha**
 
 Java Full Stack Developer
