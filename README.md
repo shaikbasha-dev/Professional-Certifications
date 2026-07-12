@@ -38,6 +38,24 @@ This repository contains my professional certifications earned through online le
   * HashMap
   * Queue Interface
 
+### Getting Started with Java: The Fundamentals of Java Programming
+
+* Platform: Infosys Springboard
+* Year: 2026
+* Completion Date: July 11, 2026
+* Certificate Issued: July 12, 2026
+* Skills Learned:
+
+  * Java Programming Fundamentals
+  * Java Syntax and Program Structure
+  * Variables and Data Types
+  * Operators and Expressions
+  * Control Flow Concepts
+  * Object-Oriented Programming Fundamentals
+  * Classes and Objects
+  * Methods and Programming Concepts
+  * Java Development Fundamentals
+
 ### Programming for Everybody (Getting Started with Python)
 
 * Platform: Coursera
@@ -144,6 +162,7 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 ## Repository Contents
 
 * `Programming_using_Java_Infosys_Springboard.pdf`
+* `Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf`
 * `Introduction_to_Java_Coursera.pdf`
 * `Programming_for_Everybody_Python_Coursera.pdf`
 * `JavaScript_Basics_Coursera.pdf`
@@ -157,3 +176,9 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 **Shaik Mahaboob Basha**
 
 Java Full Stack Developer
+
+## Conclusion
+
+This repository reflects my continuous learning and professional development across programming, web development, databases, and software engineering fundamentals. I will continue expanding this certification portfolio as I complete additional technical courses and strengthen my Java Full Stack Development skills.
+
+Happy Learning and Keep Coding!
