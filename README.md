@@ -56,6 +56,31 @@ This repository contains my professional certifications earned through online le
   * Methods and Programming Concepts
   * Java Development Fundamentals
 
+### HTML5 - The Language
+
+* Platform: Infosys Springboard
+* Year: 2026
+* Completion Date: July 14, 2026
+* Skills Learned:
+
+  * HTML5 Fundamentals
+  * Web Development Fundamentals
+  * HTML Document Structure
+  * HTML Elements and Attributes
+  * Text and Content Elements
+  * Lists and Tables
+  * HTML Forms and Input Elements
+  * Form Validation
+  * HTML5 Semantic Elements
+  * Navigation Structure
+  * Audio and Video Elements
+  * HTML5 Multimedia
+  * Image Integration
+  * HTML IFrames
+  * Accessibility Fundamentals
+  * HTML Coding Best Practices
+  * Web Security Fundamentals
+
 ### Programming for Everybody (Getting Started with Python)
 
 * Platform: Coursera
@@ -152,6 +177,9 @@ This repository contains my professional certifications earned through online le
 * Java Collections Framework
 * Exception Handling
 * Unit Testing
+* Web Development
+* Semantic HTML
+* HTML Forms
 * Git
 * GitHub
 
@@ -163,6 +191,7 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 
 * `Programming_using_Java_Infosys_Springboard.pdf`
 * `Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf`
+* `HTML5-The-Language-Infosys-Springboard-2026.pdf`
 * `Introduction_to_Java_Coursera.pdf`
 * `Programming_for_Everybody_Python_Coursera.pdf`
 * `JavaScript_Basics_Coursera.pdf`
