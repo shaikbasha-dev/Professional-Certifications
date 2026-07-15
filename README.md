@@ -81,6 +81,36 @@ This repository contains my professional certifications earned through online le
   * HTML Coding Best Practices
   * Web Security Fundamentals
 
+### CSS3
+
+* Platform: Infosys Springboard
+* Year: 2026
+* Completion Date: July 14, 2026
+* Certificate Issued: July 15, 2026
+* Skills Learned:
+
+  * CSS3 Fundamentals
+  * CSS Syntax and Styling Rules
+  * CSS Selectors
+  * Colors and Background Styling
+  * Text and Font Styling
+  * CSS Box Model
+  * Margin, Border, and Padding
+  * Width and Height Properties
+  * Display Properties
+  * CSS Positioning
+  * Float and Clear Concepts
+  * CSS Layout Techniques
+  * Flexbox Fundamentals
+  * CSS Grid Fundamentals
+  * Responsive Web Design
+  * Media Queries
+  * Pseudo-Classes and Pseudo-Elements
+  * CSS Transitions
+  * CSS Transformations
+  * CSS Animations
+  * Web Styling Best Practices
+
 ### Programming for Everybody (Getting Started with Python)
 
 * Platform: Coursera
@@ -180,6 +210,11 @@ This repository contains my professional certifications earned through online le
 * Web Development
 * Semantic HTML
 * HTML Forms
+* Responsive Web Design
+* CSS Flexbox
+* CSS Grid
+* Media Queries
+* CSS Animations
 * Git
 * GitHub
 
@@ -192,6 +227,7 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 * `Programming_using_Java_Infosys_Springboard.pdf`
 * `Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf`
 * `HTML5-The-Language-Infosys-Springboard-2026.pdf`
+* `Shaik-Mahaboob-Basha-CSS3-Infosys-Springboard-Certificate.pdf`
 * `Introduction_to_Java_Coursera.pdf`
 * `Programming_for_Everybody_Python_Coursera.pdf`
 * `JavaScript_Basics_Coursera.pdf`
