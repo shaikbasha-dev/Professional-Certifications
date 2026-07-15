@@ -1,6 +1,8 @@
 # Professional Certifications
 
-This repository contains my professional certifications earned through online learning platforms and technical training programs. These certifications demonstrate continuous learning and skill development across programming, web development, databases, and software engineering fundamentals.
+This repository contains my professional certifications, digital achievement badges, and structured learning milestones earned through online learning platforms and technical training programs.
+
+These certifications and badges demonstrate continuous learning and skill development across programming, web development, databases, software engineering fundamentals, and Java Full Stack Development technologies.
 
 ## Certifications
 
@@ -183,6 +185,10 @@ This repository contains my professional certifications earned through online le
 
 ## Digital Badges
 
+This repository also documents digital learning and achievement badges earned through Infosys Springboard.
+
+These badges represent course completion, quiz resource completion, platform participation, and progressive continuous learning milestones.
+
 ### Getting Started with Java: The Fundamentals of Java Programming
 
 <p align="left">
@@ -194,6 +200,121 @@ This repository contains my professional certifications earned through online le
 * Year: 2026
 * Achievement: Course Completion
 * Focus Area: Java Programming Fundamentals
+
+This badge represents the successful completion of structured Java programming fundamentals learning through Infosys Springboard.
+
+---
+
+### The Fledgling
+
+<p align="left">
+  <img src="Badges/The_Fledgling_Infosys_Springboard_Badge.png" alt="The Fledgling Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 10, 2026
+* Achievement: Registration on the Wingspan Platform
+* Badge Category: Learning Platform Achievement
+
+The Fledgling badge represents the initial learning milestone achieved by registering on the Wingspan learning platform.
+
+---
+
+### Duelist
+
+<p align="left">
+  <img src="Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png" alt="Duelist Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 10, 2026
+* Achievement: Completed First Quiz Resource
+* Badge Category: Quiz Learning Achievement
+
+The Duelist badge represents the completion of the first quiz resource and the beginning of structured quiz-based learning activities.
+
+---
+
+### Warrior
+
+<p align="left">
+  <img src="Badges/Warrior_First_Course_Infosys_Springboard_Badge.png" alt="Warrior Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 10, 2026
+* Achievement: Completed First Course
+* Badge Category: Course Completion Achievement
+
+The Warrior badge represents the completion of the first course and documents an important structured learning milestone.
+
+---
+
+### Ace
+
+<p align="left">
+  <img src="Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Ace Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 10, 2026
+* Achievement: Completed 25 Quiz Resources
+* Badge Category: Quiz Learning Achievement
+
+The Ace badge represents the successful completion of 25 quiz resources through structured learning and assessment activities.
+
+---
+
+### Genie
+
+<p align="left">
+  <img src="Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Genie Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 10, 2026
+* Achievement: Completed 100 Quiz Resources
+* Badge Category: Quiz Learning Achievement
+
+The Genie badge represents the completion of 100 quiz resources and reflects continued participation in structured learning and assessment activities.
+
+---
+
+### Wizard
+
+<p align="left">
+  <img src="Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Wizard Infosys Springboard Achievement Badge" width="200">
+</p>
+
+* Learning Platform: Infosys Springboard
+* Year: 2026
+* Awarded On: July 14, 2026
+* Achievement: Completed 250 Quiz Resources
+* Badge Category: Quiz Learning Achievement
+
+The Wizard badge represents the successful completion of 250 quiz resources and documents a significant milestone in continuous quiz-based learning and assessment activities.
+
+### Infosys Springboard Achievement Progression
+
+The Infosys Springboard achievement badges maintained in this repository document progressive learning milestones:
+
+* The Fledgling - Registered on the Wingspan learning platform
+* Duelist - Completed the first quiz resource
+* Warrior - Completed the first course
+* Ace - Completed 25 quiz resources
+* Genie - Completed 100 quiz resources
+* Wizard - Completed 250 quiz resources
+
+These badges reflect continued participation in structured learning, course completion, quiz-based assessments, and continuous professional skill development.
+
+For detailed badge documentation, achievement information, and badge images, visit the dedicated badges directory:
+
+**[View Professional Badges](Badges/README.md)**
 
 ## Technical Skills
 
@@ -220,9 +341,11 @@ This repository contains my professional certifications earned through online le
 
 ## Learning Goal
 
-To continuously strengthen my technical knowledge and build expertise in Java Full Stack Development through structured learning, professional certifications, practical programming, and project development.
+To continuously strengthen my technical knowledge and build expertise in Java Full Stack Development through structured learning, professional certifications, practical programming, quiz-based assessments, and project development.
 
 ## Repository Contents
+
+### Professional Certificates
 
 * `Programming_using_Java_Infosys_Springboard.pdf`
 * `Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf`
@@ -234,7 +357,17 @@ To continuously strengthen my technical knowledge and build expertise in Java Fu
 * `SQL_and_Relational_Databases_IBM.pdf`
 * `Front_End_Development_HTML_GreatLearning.pdf`
 * `Front_End_Development_CSS_GreatLearning.pdf`
+
+### Digital Badge Collection
+
+* `Badges/README.md`
 * `Badges/Getting_Started_with_Java_Skillsoft_Badge.png`
+* `Badges/The_Fledgling_Infosys_Springboard_Badge.png`
+* `Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png`
+* `Badges/Warrior_First_Course_Infosys_Springboard_Badge.png`
+* `Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png`
+* `Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png`
+* `Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png`
 
 ## Author
 
@@ -244,6 +377,10 @@ Java Full Stack Developer
 
 ## Conclusion
 
-This repository reflects my continuous learning and professional development across programming, web development, databases, and software engineering fundamentals. I will continue expanding this certification portfolio as I complete additional technical courses and strengthen my Java Full Stack Development skills.
+This repository reflects my continuous learning and professional development across programming, web development, databases, and software engineering fundamentals.
+
+The professional certificates and digital achievement badges maintained in this repository document structured technical learning, course completion, quiz-based assessment milestones, and continued professional skill development.
+
+I will continue expanding this certification and digital achievement portfolio as I complete additional technical courses, strengthen my Java Full Stack Development skills, and build practical software development projects.
 
 Happy Learning and Keep Coding!
